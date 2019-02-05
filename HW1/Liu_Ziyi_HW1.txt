@@ -1,0 +1,45 @@
+Name: Ziyi Liu
+
+UIN: 427007621
+
+GitHub:
+
+https://github.com/Ziyi1215/CSCE606/blob/master/HW1/ruby_intro.rb
+
+log file:
+
+ec2-user:~/environment/hw-ruby-intro/spec (master) $ rspec part3_spec.rb
+
+............
+
+
+
+Finished in 0.0087 seconds (files took 0.09151 seconds to load)
+
+12 examples, 0 failures
+
+
+
+ec2-user:~/environment/hw-ruby-intro/spec (master) $ rspec part2_spec.rb
+
+..........
+
+
+
+Finished in 0.00826 seconds (files took 0.08612 seconds to load)
+
+10 examples, 0 failures
+
+
+
+ec2-user:~/environment/hw-ruby-intro/spec (master) $ rspec part1_spec.rb
+
+............
+
+
+
+Finished in 0.01002 seconds (files took 0.08575 seconds to load)
+
+
+12 examples, 0 failures
+
